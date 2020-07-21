@@ -1,0 +1,23 @@
+{
+  "name": "ProjectTeam",
+  "version": "1.0.0",
+  "description": "ทดสอบการใช้งาน git และ github",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThechoiceMaster/ProjectTeam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThechoiceMaster/ProjectTeam/issues"
+  },
+  "homepage": "https://github.com/ThechoiceMaster/ProjectTeam#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
